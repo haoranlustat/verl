@@ -1,0 +1,5 @@
+- name: neuromas_agent
+  _target_: neuromas_agent_loop.NeuroMASAgentLoop
+  # NeuroMAS-3: two node layers and the output aggregation node.
+  num_layers: 2
+  node_max_tokens: 256

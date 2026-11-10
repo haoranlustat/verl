@@ -134,6 +134,7 @@ under `recipe/` instead.
 | `prefix_grouper/`    | Prefix-grouped rollout examples.                                                         |
 | `rollout_correction/`| Rollout correction examples.                                                             |
 | `router_replay/`     | Router replay examples.                                                                  |
+| `neuromas/`          | Multi-agent joint training from one terminal reward, as a custom agent loop on `main_ppo`. |
 | `tutorial/`          | Tutorials and cluster launchers (`ray/`, `slurm/`, `skypilot/`, `agent_loop_get_started/`). |
 
 ### Where are the algorithm research variants?
